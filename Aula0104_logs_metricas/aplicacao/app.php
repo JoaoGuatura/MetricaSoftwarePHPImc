@@ -4,8 +4,6 @@ require_once __DIR__ . '/src/Usuario.php';
 require_once __DIR__ . '/src/CalculadoraImc.php';
 require_once __DIR__ . '/src/SexoEnum.php';
 require_once __DIR__ . '/src/ClassificacaoImcEnum.php';
-require_once __DIR__ . '/src/CalculadoraImcMasculino.php';
-require_once __DIR__ . '/src/CalculadoraImcFeminino.php';
 
 
 
